@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's deliverer the Lord of Hosts her strong God, none like to Him set forth in His excellencies and glorious appearances for our deliverance, in some exercises uopn the thankesgiving for that late memorable victory at Dunbar in Scotland, Sept. 23, 1650, upon the dying words of Moses, Deut. 33. 26. &amp;c. / by Jo. Fenwicke Senior.</title>
+            <author>Fenwicke, John, Sir, 1579-1658?</author>
+         </titleStmt>
+         <extent>Approx. 49KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41153</idno><idno type="EEBO-CITATION">10590470</idno>
+  <idno type="VID">45304</idno>
+  <idno type="EEBO-PROQUEST">2240865002</idno>
+  
+            <idno type="STC">Wing F721</idno>
+            <idno type="STC">ESTC R28416</idno>
+            <idno type="OCLC">10590470</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A41153)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45304)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1383:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's deliverer the Lord of Hosts her strong God, none like to Him set forth in His excellencies and glorious appearances for our deliverance, in some exercises uopn the thankesgiving for that late memorable victory at Dunbar in Scotland, Sept. 23, 1650, upon the dying words of Moses, Deut. 33. 26. &amp;c. / by Jo. Fenwicke Senior.</title>
+                  <author>Fenwicke, John, Sir, 1579-1658?</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S.B.,</publisher>
+                  <pubPlace>Newcastle :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.p. lacking, information supplied from NUC pre-1956 imprints and typed facsimile of original t.p. bound in filmed copy.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Thanksgiving Day addresses.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45304:1"/>
+            <pb facs="tcp:45304:1"/>
+            <p>
+               <add>ENGLANDS Deliverer.</add>
+            </p>
+            <p>
+               <add>The Lord of Hosts Her strong God, none like to Him Set forth In his Excellencies and Glorious ap<g ref="char:EOLhyphen"/>pearances, for our Deliverance.</add>
+            </p>
+            <p>
+               <add>In some Exercises upon the Thankesgiving, for that late Memorable Victory at Dunbar in Scotland, Sept. 3. 1650.</add>
+            </p>
+            <p>
+               <add>Upon the dying words of Mses, Deut. 33. 26. &amp;c.</add>
+            </p>
+            <p>
+               <add>By Jo. Fenwicke Senior, Master of the Hospitall of Sherburn house neer Durham.</add>
+            </p>
+            <q>
+               <add>There brake he the bow, the shield, and the battel, Selah.</add>
+            </q>
+            <q>
+               <add>Strengthen the weak hands and feeble knees, &amp;c.</add>
+            </q>
+            <q>
+               <add>Tandem bona causa triumphat.</add>
+            </q>
+            <p>
+               <add>Newcastle, Printed by S. B. 1651.</add>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45304:2"/>
+            <head>To the known God.</head>
+            <p>the most high &amp;c Mighty conqueror King Jesus King of Ss. king of kings and Lord of Lords, King of all the earth. Lord of Hosts, mighty in battel, mighty to save, the blessed <hi>&amp;</hi> only potentate now in the field for his right of Inheritāce and tytle to all the kingdoms of th'world which the father has given him, a portion with the great <hi>(Isa.</hi> 53. 12.) above all the Mo<g ref="char:EOLhyphen"/>narchs of the World. Great Generalissimo of all the Saints. The Lord of Hosts his Excellency of Excellencies, who rydes upon the Clouds for our help, our strong God, none like to Him.</p>
+            <div type="part">
+               <head>And To</head>
+               <p>the Su<g ref="char:EOLhyphen"/>prem autho<g ref="char:EOLunhyphen"/>rity of this na<g ref="char:EOLhyphen"/>tion, the Parliam. of Englād with the R. honourable Councell of State, the grand tru<g ref="char:EOLhyphen"/>stees of the Lord of hosts in his interest, and high De<g ref="char:EOLhyphen"/>signes for his glorius King<g ref="char:EOLhyphen"/>dome in these latter dayes.</p>
+            </div>
+            <div type="part">
+               <head>And To</head>
+               <p>the Right Honou<g ref="char:EOLhyphen"/>rable the Lord Ge<g ref="char:EOLhyphen"/>neral Crom<g ref="char:EOLunhyphen"/>well his Ex<g ref="char:EOLhyphen"/>cellency, our Englands <hi>Moses,</hi> with all his called, and chosen, and faithfull: by &amp; with whom the Lamb over<g ref="char:EOLhyphen"/>coms his enemies and makes way to his Kingdome. <hi>Revel.</hi> 17. 14.</p>
+            </div>
+            <div type="part">
+               <p>The most unworthy of all his and your Servants and Souldiers, most hum<g ref="char:EOLhyphen"/>bly Dedicates his dying remembrance of the late wonderfull delive<g ref="char:EOLhyphen"/>rance of his Country, in the late memorable and glorious Victory at <hi>Dunbar</hi> in <hi>Scotland,</hi> when a potent Enemy threatned our <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> destruction, and the great work of the Lord Jesus so happily begun with us;</p>
+               <closer>
+                  <signed>For a Monument to Posterity. <hi>Jo. Fenwick</hi> Senior.</signed>
+               </closer>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:45304:3"/>
+            <pb n="5" facs="tcp:45304:3"/>
+            <epigraph>
+               <q>
+                  <bibl>Deut. 33. 26. 27. 28. 29. Verses.</bibl>
+                  <bibl>Verse 26.</bibl>
+                  <p>There is none like to this strong God <note place="margin">
+                        <hi>Verse</hi> 26.</note> ô Jesurun, <hi>(ô Israel, as Deut. 32. 15. Isay 44. 2.)</hi> who rides upon the Heavens for thy help, and in his Excellency upon the highest Clouds.</p>
+               </q>
+            </epigraph>
+            <p>I, One of the least of the Saints and Servants of Christ by the assistance of the holy Spirit, tell you, That I have in sundry Exercises, endeavoured to hold out to you, some light of the great designe▪ the Lord Jesus King of Saints is about in the world, in these latter dayes; for the making way to his Kingdom, and spreading the same to the Na<g ref="char:EOLhyphen"/>tions of Jewes and Heathen, who have not heard of his Fame; such a Kingdom as cannot be shaken, <hi>Heb.</hi> 12. 28. when all the Kingdoms of the world shall be shaken to peeces, to pull down the pillars and interest of Anti-Christs Kingdom by this great Earthquake, which now at this day is shaking the Nations, over<g ref="char:EOLhyphen"/>throwing <note place="margin">
+                  <hi>Hag.</hi> 2. 6. 22.</note> Thrones and Dominions, of all that oppose his de<g ref="char:EOLhyphen"/>signe; as we have seen with our eyes in <hi>England</hi> and <hi>Ireland,</hi> and the Nations about us have stood astonied at it; so as he will let the world know, that no Kingdom or Government shall be able to stand in opposition to his Kingdom, which will breake all opposing Kingdoms and Nations to peeces, untill it be ex<g ref="char:EOLhyphen"/>alted. We are come this day to a duty of Thanksgiving for one of the memorable and wonderfull works he hath done for <hi>England,</hi> hardly to be parallelled since these warrs begun: as like unto that famous deliverance of his People at the Red Sea of old▪ under <hi>Moses</hi> their Leader and Governour; and as sute<g ref="char:EOLhyphen"/>able to that, we have chosen this Portion of Scripture to insist upon, <hi>Deut.</hi> 33. 26 <hi>There's none like to this strong God ô Jesu<g ref="char:EOLhyphen"/>run; ô Israel, &amp;c.</hi> For clearing out of the mind of the Spirit
+<pb n="6" facs="tcp:45304:4"/> of God▪ the principall Author of all Scriptures, we will first shew you the secondary Author, who he was, <hi>Moses.</hi> 2. The Matter or Subject, they were the dying words of <hi>Moses,</hi> after he had blessed the People of Israel. 3. His scope and drift here<g ref="char:EOLhyphen"/>in to set forth to all Posterity an eternall Remembrance of their Deliverance, by their God, set forth in his Attributes and Ex<g ref="char:EOLhyphen"/>cellencses, as none like him; and no People like that People saved by the Lord, in the last verse of this Text. <hi>Moses the</hi>
+               <note place="margin">Concerning the Author.</note>
+               <hi>man of God</hi> (verse the first) was a Type of Christ and honoured of God as a faithfull observer of all God gave him in command concerning the house of God, <hi>Heb.</hi> 3. 2. 5. <hi>Moses,</hi> who (after he was wonderfully preserved, and drawn out of the water) when he came to age, refused to be called the son of great K. <hi>Pha<g ref="char:EOLhyphen"/>raoh's</hi> daughter, chosing rather to suffer affliction with the Peo<g ref="char:EOLhyphen"/>ple of God, then to enjoy the pleasures of <hi>Pharaoh's</hi> Court, the pleasures of sinne for a season, esteeming the reproach of Christ, greater riches, then the Treasures of Aegypt, having an eye to the recompence of reward; who by Faith forsook Aegypt, not fearing the wrath of the King, looking to him who was invisi<g ref="char:EOLhyphen"/>ble: who by Faith, passed through the Red Sea dry foot, when the Aegyptians were drowned, <hi>Heb.</hi> 11. 23. <hi>to</hi> 30. This faithfull <hi>Moses</hi> God hath honoured with (as it were) a pillar of remem<g ref="char:EOLhyphen"/>brance here under the Gospel, that this name may never be forgotten of such a godly Leader and Governor of his people under his charge. And here in the first verse of this Chapter of our Text, the holy Ghost a little before his dying, writes his Epitaph with a Title of honour, <hi>Moses the man of God;</hi> not barely, a man of God▪ but <hi>The man of God,</hi> by way of Excel<g ref="char:EOLhyphen"/>lency. <hi>Moses</hi> the leader of the onely People of God out of Aegypt, through the Red Sea▪ and through the Wildernesse, where he Penned that ninetieth Psalme▪ to mind them of their mortality, and Gods unchangeable love to them in their long travaile in the Wildernesse when they dwelt in Tents, and had not a house to put their heads in; then he sets out, how God was their dwelling place in all Generations. <hi>Moses</hi> that was King in Jesurun <hi>verse</hi> 5. of this 33. <hi>Chap of Deut.</hi> that is, Chief Magistrate, or Governour; for then <hi>Rex</hi> was no more but <hi>Dax,</hi> onely as he was a Type of Christ the King of Saints; for Israel
+<pb n="7" facs="tcp:45304:4"/> had no King till they waxed wanton and would be like the Heathen, grew weary of their State Government, the first and best, being of Gods appointment, and will be the last and most flourishing Government in the world; when Christ shall be King of all the earth, and no more Kings but he, as <hi>Zach.</hi> 14. 9. 10. <hi>Psal.</hi> 47. 7. but this by the way. We are yet upon the honourable remembrance of our Author <hi>Moses</hi> of whom again the holy Ghost saith there arose not a Prophet like unto <hi>Moses</hi> whom the Lord knew face to face, <hi>Deut.</hi> 34. 10. as after his death is spoken of him; yea, God so honoured him to among men, that lest they should Idolize his dead Corps, he would have no man ever know where he was buried: yet as if all this were not enough, God will have <hi>Moses</hi> to be remembred and honoa<g ref="char:EOLhyphen"/>red at the last and great triumph over all the enemies of Christs Kingdom, above all other songs of Sion, <hi>Moses</hi> and the <hi>Lambe</hi> are joyned. They <hi>shall sing the Song of</hi> Moses <hi>and of the</hi> Lambe, <hi>Apoc.</hi> 15. 3. The Lambs song will be excellent▪ yet <hi>Moses</hi> must not be forgotten in it, <hi>Moses</hi> song must be one part of the song of the Lambe with a remembrance of that great deliverance under his conduct, <hi>Exodus</hi> 15.</p>
+            <p>From the excellency of this Author, and the honour God hath set upon him to all Generations; We will observe briefly two things▪ 1. That it is the greatest title of honour in the world to be truely called a man of God tis above the dignity of <hi>Alex<g ref="char:EOLhyphen"/>ander,</hi> or greatest conquerour in the world. 2. Tis the duty of a man of God, whom God hath exalted above others▪ as a chiefe Magistrate, a Generall, Leader, or chiefe Commander, as ad<g ref="char:EOLhyphen"/>vanced above others, so to proceed, out-strip, and exemplarily to goe before others, in all Religious exercises, and setting forth the honour of God to posterity, as Moses here doth in his dying words of our <hi>text.</hi> The Authour, and scope of our <hi>text</hi> being cleared; the words affords us this main Doctrine, as the very heart of the <hi>text.</hi>
+            </p>
+            <p>
+               <hi>That there is no God like Israels God, the Saints God;</hi> this <label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>1</label> we will prove both by Scripture and reason, 1 <hi>Kings</hi> 8. 23. and 2 <hi>Chron</hi> 17. 20.</p>
+            <p>There's no God like thee in Heaven above or earth below, <hi>Psal.</hi> 86. 8. there's no God like thee, no works like thy works;
+<pb n="8" facs="tcp:45304:5"/> and <hi>Exod</hi> 15. 11. Who is like to thee, O Lord glorious in ho<g ref="char:EOLhyphen"/>linesse, fearfull in prayses, doing wonders? Who is like to thee among the most strong and valiant? <hi>Tremel.</hi> See <hi>Deut.</hi> 32. 39.</p>
+            <p>The first reason of it, because he is <hi>this</hi> strong God, not a <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>1</label> strong God onely but <hi>this</hi> strong God that hath so wonderfully delivered thee O Israel; <hi>this</hi> strong God, by way of excellency, above all other strengths in Heaven or Earth, the eternall God, <hi>verse</hi> 27. <hi>of our text;</hi> in whom is eternall strength, <hi>Isay</hi> 26. 4. My strength, and song, and my salvation, <hi>Isay</hi> 12. 2. Mighty in Battell, <hi>Psal.</hi> 24. 8. Mighty to save, <hi>Isay</hi> 63. 1. None can de<g ref="char:EOLhyphen"/>liver out of his hand, <hi>Isay</hi> 43. 13. <hi>Deut.</hi> 32. 39.</p>
+            <p>The second reason, because he is the onely pure, full, and <milestone type="tcpmilestone" unit="unspecified" n="2"/> overflowing fountain of all strength, that humane creatures can be capable of, to have or understand, and far above that too; all strength flowes from him into the creature, whereby he gives and with drawes at his pleasure, gives to his saints and servants in their need; and exhausts the very strength of his enemies in their day of greatest need, renders them like dry brooks, with<g ref="char:EOLhyphen"/>out water, to refresh or help one another.</p>
+            <p>The third Reason, because the enemies of the Saints are <milestone type="tcpmilestone" unit="unspecified" n="3"/> strong &amp; mighty, overtopping like mountains, all the Churches strength, and therefore their God had need be a strong God to graple with them, when they are past mans medling with, then saith he, be still, and know that I am God, I will be exalted in the earth, <hi>Psal.</hi> 46. when <hi>Gebal,</hi> and <hi>Ammon,</hi> and <hi>Amalek,</hi> and all that dwelt at Tyre, that richest City in the world in those dayes, <hi>Psal.</hi> 83. 7. When the Pope and his sons Emperors, Kings and Princes, Germans, Sweedes, and Dane; Orange, France, and Spaine, are all in confederacy against his Saints and worke in England; and Scotland too (amidst the throng) then sure our Englands God had need to appear, the strong God none like to him.</p>
+            <p n="1">1. Vse, Teacheth us wherein our strength lyes at this day, in <label type="milestone">
+                  <seg type="milestoneunit">Vse </seg>1</label> our interest in this strong God, the Saints God, none like him, and our interest in him is to be found and seen in our interest in his works at this day.</p>
+            <p n="2">2. Vse, Of comfort to all the saints, his faithfull servants and <label type="milestone">
+                  <seg type="milestoneunit">Vse </seg>2</label> souldiers in greatest straits, this God whom we serve is able to
+<pb n="9" facs="tcp:45304:5"/> deliver; nay, not onely able as the strong God, but is the active God; he sits not in his Throne at rest, if he sees his saints below in a strait, at a low or forlorn condition, but he is active: our <hi>text</hi> saith, he comes riding upon the Clouds, with great celerity, to help at a pinch; there's no danger or difficulty, his saints his souldiers are in, but he makes speed to it for their recruit, when all recruits faile and come too short▪ he Rydes upon the Clouds. And how, in what manner comes he? In his Excellency, saith the <hi>text,</hi> that is, in all full accomplishments, in all his attributes they stand in need of, as Counsell, Courage, Wisedome, Strength, in gentlenesse, and meeknesse to his saints; but in wrath and rage to his enemies, set forth by his stately riding upon his white Horse too, <hi>Revel.</hi> 19. a Symboll of triumph and joy to his saints, as their King of Kings, and Lord of Lords, but in garments dipt in blood signifying a bloody day to his enemies. There's no corner in the world, or time, or condition, wherein his saints are in jeopardy, but he comes post to their recruit, and help; as when he saw his people in Aegypt at a strait, he comes down to deliver them with a witnesse, <hi>Exod.</hi> 3. 8. If his People be at a strait, he will be at it for their help, he Rydes upon the highest Clouds, and in his Excellency too, with great expedition.</p>
+            <p n="3">3. Vse, Terrour to all the enemies of his designes, whether open, or secret enemies; this strong God, this eternall God, <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>3</label> comes in his excellency, riding upon the Clouds <hi>(saith the text)</hi> in all his accomplishments, to help and strengthen his saints in the day of Battell; he comes to disarme you (as we may say) takes away your strength, that you cannot find your hands in your great boasts and brags, <hi>Psal.</hi> 76. 5. be ye never so stout and strong, so numerous in multitudes, as of late at <hi>Dunbar</hi> in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> men of low degree are vanity, and men of high degree are a lye; put both together in the ballance, and they come out lighter then vanity, <hi>Psal.</hi> 62 9. your multitudes of souldiers are vanity, but your King, your Lords, your great Commanders, and Germaine souldiers you trust in▪ are worse; for they are a lye; they promise you that they cannot performe; and therefore when the poor men of low degree are joyned with them, and put all in the ballance with eternall strength, they come out lighter and worse then they went in, lighter then vanity: all
+<pb n="10" facs="tcp:45304:6"/> your Idols you trust in are vanity, vain helps against eternall strength, all your recruits come too late; in your greatest need you may send post to this Prince, to that Nation, to this or that party of your best reserves, but all too late; King Jesus, the King of saints out-rides them all in his excellencies upon the Clouds, he will not misse a moment of his time to help his soul<g ref="char:EOLhyphen"/>diers that fight his Battells, to out-plot, out-power all his ene<g ref="char:EOLhyphen"/>mies, so that the day is done, the battell won, ere your recruits can come. Prayse to his everlasting name, who in his excellen<g ref="char:EOLhyphen"/>cy rydes upon the Clouds for our help, triumphing gloriously, as he did for his people of old. <hi>Exod.</hi> 15. 6. Thy right hand, O Lord, became glorious in power, thy right hand, O Lord, dashed the enemies to pieces; And in the greatnesse of thine excel<g ref="char:EOLhyphen"/>lency, thou hast overthrown them that rose up against thee. The enemies said, We will pursue, divide the spoile, our lust shall be satisfied upon them, our hands shall destroy them. But the por<g ref="char:EOLhyphen"/>tion of <hi>Jacob</hi> is not like to them, he makes his saints his battell-axe, and weapons of warre, and with them he destroyes King<g ref="char:EOLhyphen"/>doms, and breaks Nations to peeces, their horses and horsemen, young and old, Captains and Rulers, <hi>Jeremy.</hi> 91. 19 <hi>to</hi> 23.</p>
+            <p>Now I appeale to you all this day, has not the Lord of Hosts, the strong God, done thus for England, for our Army late at Dunbar in Scotland, when our Army was sick and weak and thin in number; and the enemies strong, and numerous, above twice our strength in number; they said over-night, Come on, we will pursue, spoyle, and take all the English to morrow by seven of the Clock we will destroy, we will beset the passes at Copperspeth, &amp;c. that none shall escape into England; we will drive them into the sea, or send them to the Barbado's; but ô! how were they deceived, God made them to be found lyars (as verse 29. of our <hi>text)</hi> how quickly, with great expedition, came in our strong God, ryding upon the Clouds in all his excellen<g ref="char:EOLhyphen"/>cies to our recruit and help, when no recruits were neer, but a numerous strong Army at their heeles pursuing, and our Army, driven to the very Sea-shoare, as Israel was by that great <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi> and his mighty Army; and also had they not beset the pas<g ref="char:EOLhyphen"/>sages at Copperspeth &amp;c. that none should escape into England? Did not then, even then, and in that strait, this strong God the
+<pb n="11" facs="tcp:45304:6"/> Lord of Hosts come in to our help to our recruit, in his excel<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y, in all his accomplishments; riding upon the Clouds for our help with great celerity, put on his garments of vengeance to avenge the quarrell of that broken Covenant, when there was none to help, his Arme brought salvation, <hi>Isay</hi> 63. 5. in such a time and way as men least thought of; Mounted upon his white horse, going out conquering, and to conquer, that nume<g ref="char:EOLhyphen"/>rous Army by a handfull of his saints and servants, in such a <note place="margin">
+                  <hi>Revel.</hi> 6. 2. <hi>to</hi> 50</note> wonderfull manner, as hardly can be parallelled since these wars begun.</p>
+            <p>Prayse to his name, his name is onely excellent, who has tri<g ref="char:EOLhyphen"/>umphed gloriously, to get himselfe an everlasting name, in that great Victory, That the Nations about us may tremble at his presence, among his saints and servants, when he did those ter<g ref="char:EOLhyphen"/>rible things, which we looked not for; The mountains (of his enemies strength) flowed down, that is, melted like wax at his presence, <hi>Isay</hi> 64. 2. 3. to teach them, that there's no contesting <note place="margin">
+                  <hi>Psal.</hi> 97.</note> against eternall strength of this strong God in his designes for making way to his Kingdom.</p>
+            <p>
+               <hi>The eternall God is thy protection, and underneath are</hi>
+               <note place="margin">
+                  <hi>Verse</hi> 27.</note>
+               <hi>the everlasting arms: he shall scatter the enemy before thy face, and he shall say, Destroy.</hi>
+            </p>
+            <p>The meaning is the eternall God above with the eternall unwearied armes of his Saints and Souldiers below, is the Pro<g ref="char:EOLhyphen"/>tection of his people, before whose faces he will scatter and de<g ref="char:EOLhyphen"/>stroy the enemies, there's no difficulty, but in the everlasting armes, how that is to be understood. For clearing whereof, we find this word everlasting frequently used in Scripture, for a long continuance, and durable condition. <hi>Gen.</hi> 17. 8 The Land of Canaan given to the Israelites for an everlasting Possession, that is, of long continuance: And the doors or entrance into Christs Kingdom, are called everlasting Gates, <hi>Psal.</hi> 24. 7. And yet Christs Kingdom hath a period, when he resignes it up to <note place="margin">1 <hi>Cor.</hi> 15, 24.</note> the Father: so the arms of his saints and souldiers are here, said to be everlasting armes, of durable strength, for his works of long continuance, unwearied, because he imployes them to de<g ref="char:EOLhyphen"/>stroy his enemies; so that the meaning of the words being cleared, the <hi>text</hi> affords us this Doctrine.</p>
+            <pb n="12" facs="tcp:45304:7"/>
+            <p>
+               <hi>That the eternall God above, and his faithfull Souldiers below,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>2</label>
+               <hi>are the onely protection of our Israel, our Nation, our State, our Parliament, our People.</hi>
+            </p>
+            <p>Vse of Exhortation to all true English-men, to be true and <label type="milestone">
+                  <seg type="milestoneunit">Vse </seg>1</label> faithfull to the interest of this strong eternall God; for in his interest lyes all our safety and protection. 2. Be tender of his souldiers, who are faithfull to his interest, your greatest interest in his designe for his Kingdom. Neglect them not, as you love your own safety, they are the means below of your protection, they are prodigall of their blood for you.</p>
+            <p>
+               <hi>That the armes of the Saints (Christs Souldiers) are everla<g ref="char:EOLhyphen"/>sting, unwearied armes.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>3</label>
+            </p>
+            <p>This may seem a strange Doctrine, but tis the words of the <hi>text,</hi> the very dictate of the holy Ghost, they are the Lord Jesus his Battell-axe and weapons of war, wherewith he destroyes Kingdomes, breaks Nations to pieces, <hi>Ieremy</hi> 51. 19. Mighty enemies, mighty Nations, called everlasting mountains and hills, strong, and of long continuance, as <hi>Hab.</hi> 3. 6, They had need to have eternall strength in their weak armes, that have such tough work in hand.</p>
+            <p>The Reasons why their Arms are Everlasting Arms, because <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>1</label> they are acted by everlasting strength of an Eternall God, which cannot be weakned nor wearied as long as his work is in their hands, but has a Spring of fresh reviving strength, for a recruit at need; and likewise they are acted by his eternall Decrees, and Counsells, to out-plot and out-power too, all the enemies.</p>
+            <p>The Eternall God, the Lord of Hosts is their Generall, and <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>2</label> they his sanctified ones, set a part to his work, and he musters them to the battell, <hi>Isay</hi> 13. 1. 2. He gives them the word of command, Destroy, Destroy, as here in our <hi>text,</hi> therefore they had need to have an unwearied strength, a tincture of eternall strength <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n it, to preserve it from wasting and wearing as his called, and chosen, and faithfull; by and with whom, the Lambe overcoms all that acted in the interest of Anti-Christ, <hi>Rev.</hi> 17. 11.</p>
+            <p>Tis easie to tell then who shall be Victors, Conquerours in all <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>
+               </label> these conflicts in Christs interest for his Kingdom, the Saints, his Souldiers; their Arms cannot be weak or weary, to whom he gives eternall strength, and trusts in his eternall Arm amongst
+<pb n="13" facs="tcp:45304:7"/> them in the field; and they overcome by the blood of the Lambe and word of his testimony, <hi>Revel.</hi> 12. 11. Our Armies shall be Rampant, when the Lord of Hosts gives out the word, Destroy, Destroy.</p>
+            <p>Woe then to all the enemies of Christs Kingdom, Destroyed <label type="milestone">
+                  <seg type="milestoneunit">Vse </seg>2</label> they shall all be, the Lord Iesus stirs up jealousie like a man of war, <hi>Isay</hi> 42. 13. His fury is up, <hi>Isay</hi> 63. 5. <hi>&amp;c.</hi> His wrath be<g ref="char:EOLhyphen"/>gins to burn, he hath given out the word of Command here in our <hi>text,</hi> to his Souldiers, Armed with everlasting Arms, unwea<g ref="char:EOLhyphen"/>ried strength and spirits, and sayes, <hi>Destroy Destroy;</hi> his ever<g ref="char:EOLhyphen"/>lasting arme is amongst them: then down goes the enemies in heaps, and others fly before their faces; we have often forewar<g ref="char:EOLhyphen"/>ned you to take heed any of you be found amongst the enemies, or in their counsells and plots; nay, if it be but an ill wish, or ill heart to his high designe, that ye perish not with them. Woe to them that strive against everlasting strength.</p>
+            <p>From the last words of this Verse <hi>(and he shall say, Destroy;)</hi> we may observe from the meaning of these words opened to you, <hi>That the eternall God, this strong God, the Lord of Hosts, will</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>4</label>
+               <hi>have a dreadfull destruction ere long, upon all his enemies; and his Saints and Servants a wonderfull deliverance.</hi> This we shall see cleare from the Scripture, <hi>Isay</hi> 28. 21. Jehovah shall arise up as in Mount <hi>Perazim,</hi> (where <hi>David</hi> smote the Philistims, 2 <hi>Sam.</hi> 5. 20. And he shall be wroth as in the valley of <hi>Gibeon,</hi> (where at the Prayer of <hi>Joshuah,</hi> the Sunne stood still, untill he had de<g ref="char:EOLhyphen"/>stroyed five Kings of the <hi>Amorites, Ios.</hi> 10. 5 <hi>to</hi> 14. that (saith <hi>Isay)</hi> he may doe his <hi>worke,</hi> his strange <hi>worke;</hi> and bring to passe his <hi>act,</hi> his strange <hi>act;</hi> so that the Churches deliverance in the overthrow of the mighty enemies, is a strange <hi>worke,</hi> few un<g ref="char:EOLhyphen"/>derstand it, few beleeve it, even when in these dayes the Lord Iesus is doing it, <hi>Revel.</hi> 17. 11. 14. They shall fight with the Lambe, but the Lambe shall overthrow them, his Camp is great, his day is very terrible, <hi>Ioel</hi> 2. 10. He comes into the field with his bloody colours, with his garments dipt in blood, <hi>Revel.</hi> 19 13. and will staine all his rayment, for the day of vengeance is in his heart, the yeere of his redeemed commeth, <hi>Isay</hi> 63. 3. 4 A bloody day of vengeance is in his heart, all the world cannot pull it out, he will fill the places with dead bodies, <hi>Psal.</hi> 110. He
+<pb n="14" facs="tcp:45304:8"/> shall drink of the Brook in the way, as a mighty Conquerour, so eager in pursuite of his enemie, as <hi>David</hi> when he pursued the Philistimes, 1 <hi>Sam.</hi> 14. 24. as he shall neglect all repast or rest till he have dipt his feet in the blood of his enemies, and his dogs their Tongues therein, <hi>Psal.</hi> 68. 13. 23. so as all the enemies of Christs Kingdom shall have a bloody day of venge<g ref="char:EOLhyphen"/>ance, and the Saints a bloody revenge ere long, and Israel shall doe valiantly, <hi>Numb.</hi> 24. 18. <hi>Psal.</hi> 60. 12. through God we shall doe valiantly, he shall tread down our enemies under his feet.</p>
+            <p>Because till the enemyes be all destroyed or vassalled, the <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>1</label> Lord Jesus cannot set up his Kingdom in that transcendent glory in all the world which the Father hath given him, a porti<g ref="char:EOLhyphen"/>on with the great. <hi>Isay</hi> 53. 12. And he hath payd deare for it, purchased it with his own blood, and ere he be kept from it, he will make his proudest enemies blood goe for it. The Lord Jesus is able enough, and could in a moment destroy all his ene<g ref="char:EOLhyphen"/>mies; but that after the abuse of his long patience, he will get himselfe an everlasting name in their fatall destruction.</p>
+            <p>
+               <hi>Vse.</hi> Tells us when the end of all these bloody troubles will <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>
+               </label> be not til the enemies of Christs Kingdom be destroyed, or vassalled, and that we hope with us will not be long; he hastens his way to his Kingdom, his motions are rappid and swift, doth wonders in our dayes, and with us to the amazement of the Nations about us; wonders every yeare greater and greater, for us in <hi>England,</hi> that when his work is finished here, he may em<g ref="char:EOLhyphen"/>ploy us of this Nation to help forward his work in the Nations about us, to pull down the Anti-Christian interest, and all the pillers of Satans kingdom: And tis not without ground concei<g ref="char:EOLhyphen"/>ved by many of the Learned, that in this watry Trigon or great revolution begun in 1642. and in this Jubile begun now 1650. the destruction of the enemies, and the glorious ad<g ref="char:EOLhyphen"/>vancement of Christs Kingdom, throughout the world, shall be accomplished. For certain the time is neer at hand, his word and works declare it, as we set forth in our <hi>SIONS JOY,</hi> Printed 1643. for <hi>Ben. Allen.</hi> London.</p>
+            <p>
+               <hi>That Israel alone may dwell safely, the Fountain (or <note place="margin">
+                     <hi>Verse</hi> 28.</note>
+                  <pb n="15" facs="tcp:45304:8"/> Off-spring) of</hi> Jacob <hi>in a Land of Corne and Wine; yea, his Heavens shall distill down Dew.</hi>
+            </p>
+            <p>This is the end of the great designe of Christ Jesus in the world in the destruction of his enemies. That his Israel, his Saints, may dwell in safety, in a Land of plenty; till then, the Saints cannot be safe, or at rest, such is the malice of the ene<g ref="char:EOLhyphen"/>mies the Serpents seed; tis the end of his glorious work his strange work, that his Saints, his Servants may enjoy a refresh<g ref="char:EOLhyphen"/>ing rest in a fruitfull▪land of peace and plenty, after their long and bloody conflicts</p>
+            <p>
+               <hi>Hence observe, That this safe abiding rest, after all these pre<g ref="char:EOLhyphen"/>sent</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine. </seg>
+               </label>
+               <hi>troubles, is peculiar to the Saints alone, our text saith it.</hi> The Lord shall destroy, destroy, that Israel may dwell safely in a land of plenty; <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is their Interest let others look to theirs.</hi> There's no difficulty in these words but in that tis said <hi>his Heavens</hi> (that is, the Heavens over Jacobs head. <hi>Deut.</hi> 28. <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>3.) <hi>shall drop down dew</hi> to make the Land fruitfull, <hi>in Corne and Wine,</hi> for necessity and delight. This Doctrine is so plentifully cleared in Scri<g ref="char:EOLhyphen"/>pture, as we will not now spend more time in proving it, but hasten to a Conclusion.</p>
+            <p>This Vse in generall to us all, as Englishmen, as Governours, <note place="margin">Vse of Eu<g ref="char:EOLhyphen"/>hortation.</note> Governed, Parents, Children, Old and Young as we love our own and the Churches rest and safety, after all our dayes of trouble, to act strongly strenuously, for Christs interest against all the interests in the world, and all the Potent enemies there<g ref="char:EOLhyphen"/>of. Miserable men are they that are ingaged in Anti-Christs interest, or any other interest in opposition to Christs interest.</p>
+            <p>
+               <hi>Blessed art thou, O Israel: Who is like unto thee, O peo<g ref="char:EOLhyphen"/>ple!</hi>
+               <note place="margin">
+                  <hi>Verse</hi> 29.</note>
+               <hi>saved by the Lord, the shield of thine help, and the sword of thine excellency: thine enemies, shall be found lyers unto thee, and thou shalt tread upon their high places.</hi>
+            </p>
+            <p>The meaning is, That Israel, the People of God, are the onely happy People, blessed of the Lord, saved by the Lord their shield against all enemies, whose sword▪ destroying their ene<g ref="char:EOLhyphen"/>mies, is their onely excellency; let all their enemies boast and
+<pb n="16" facs="tcp:45304:9"/> brag, they shall be found lyars, and the Saints shall be the Con<g ref="char:EOLhyphen"/>querors, possesse their possessions.</p>
+            <p>
+               <hi>That as there is no God like Israels God, so there is no People</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine. </seg>
+               </label>
+               <hi>like his People.</hi> The works of God in the world, and at this day to <hi>England,</hi> hath proved this Doctrine true, and so we will hasten to an end.</p>
+            <list>
+               <item>1. Because they are saved onely by him, when all other helps <label type="milestone">
+                     <seg type="milestoneunit">Reason </seg>1</label> faile them.</item>
+               <item>2. Because he is their shield, <hi>Gen.</hi> 15. 1. <hi>Psal.</hi> 33. 20. and <label type="milestone">
+                     <seg type="milestoneunit">Reason </seg>2</label> the shields of the world belong to God, greatly to be exalted, <hi>Psal.</hi> 47. 9.</item>
+            </list>
+            <p>Vse. <hi>Exhortation</hi> to England (my deare Country) to prayse <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>
+               </label> the Lord; O happy England, saved by the Lord; as there's no God like thy strong God, so there's no people, since Israels time, so wonderfully saved by the Lord; let our enemies brag and boast of all their power and assistance of Forraine Nations, and what else they have to trust in, they shall be found lyars, as they were now at <hi>Dunbar,</hi> prayse your strong God, there's none like to him.</p>
+            <p>This eternall God above, who by his everlasting Arms below, hath done wonders for England these late years: The Lord Jesus is upon his high designe for his Kingdom, and he pursues it with violence; let us keep close to his interest, the Interest of England lyes wrapt up in that; and he will maintain us in it: Our enemies shall be found lyars, and we shall tread upon their high places.</p>
+            <p>From hence our last Doctrine.</p>
+            <p>
+               <hi>That this strong, eternall God, the Lord of Hosts our Generall, will at last give a rich reward to his Saints, his faithfull Ser<g ref="char:EOLhyphen"/>vants</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine. </seg>
+               </label>
+               <hi>and Souldiers.</hi> The <hi>text,</hi> (the dictate of the holy Ghost in these dying words of <hi>Moses</hi> the man of God) assures us the certainty of it. Thou that is this happy People, O Israel, saved by the Lord, shall tread upon their high places, that is, possesse their possessions. <hi>Obed.</hi> 10. 20. as was promised of old to <hi>Abra<g ref="char:EOLhyphen"/>ham. Gen.</hi> 22. 17. (the Father of the faithfull) <hi>thy Seed shall possesse the Gates</hi> (that is, the Judgement seats, the symboll of Pompe and Power) <hi>of thine enemies,</hi> their Castles, fortified Ci<g ref="char:EOLhyphen"/>ties, Forts, and Fortresses, and whatsoever the enemies have to
+<pb n="17" facs="tcp:45304:9"/> delight or trust in, in <hi>England</hi> and <hi>Ireland</hi> witnesse this; and now of late in <hi>Scotland, Edenbrough</hi> and <hi>Leeth</hi> too, become our Possessions.</p>
+            <p>First <hi>Reason,</hi> Because they have done him faithfull service as <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>1</label> his called, and chosen, and faithfull, <hi>Revel</hi> 17. 11. And have been prodigall of their blood in his Interest, loved not their lives unto the death, <hi>Revel.</hi> 12. 11.</p>
+            <p>Second <hi>Reason,</hi> Because he hath promised this rich reward <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>2</label> here in our Text, and <hi>Obed.</hi> 19. 20. <hi>Isay</hi> 11. <hi>Revel.</hi> 19. 17. And he is faithfull, and true, and able to performe; for in righ<g ref="char:EOLhyphen"/>teousnesse he judgeth, and maketh war, <hi>Apoc.</hi> 19. 11. That his Saints and Servants may dwell safely, in a land of plenty; as before verse 28. of our Text.</p>
+            <p n="1">1. Vse of <hi>comfort</hi> to the Saints and Souldiers of Christ, their <label type="milestone">
+                  <seg type="milestoneunit">Vse </seg>1</label> reward is comming; this blessed and onely Potentate (1 <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> 6. 15.) brings his reward with him, <hi>Revel.</hi> 22. 12.</p>
+            <p n="2">2. Vse, Informes us of a sad doome to all the enemies, their <label type="milestone">
+                  <seg type="milestoneunit">Vse </seg>2</label> reward is comming too, blood for blood, <hi>Revel.</hi> 18. A bloody revenge of all his servants blood they have shed. The Earth shall discover her blood, and no more hide her slaine <hi>Isay</hi> 26. 21. And the slain of the Lord shall be many, <hi>Isay</hi> 66. 16. The Lord Jesus is up, and in the field, in his bloody colours, staines all his rayment in the bloody slaughter of his enemies <hi>Isay</hi> 63. 3. A symboll of black and bloody day of vengeance in his heart, and he will doe execution; tis the vengeance of the Lord, and vengeance of his Temple, <hi>Ieremy</hi> 50. 28. and 51. 11.</p>
+            <p>Woe to you all, houle yee, for the day of the Lords venge<g ref="char:EOLhyphen"/>ance is at hand, it shall come as a destruction from the Almigh<g ref="char:EOLhyphen"/>ty, <hi>Isay</hi> 13. 6. And woe to all false Brethren, of whom the Saints are most indangered? Woe to <hi>Elam</hi> that bare the quiver in the day of their Brethrens distresse, <hi>Isay</hi> 22. 6. <hi>Elam</hi> was a People joyned to the Church, <hi>Nehem.</hi> 7. 12. and <hi>cap.</hi> 12. 42. But in the day of the Churches distresse among the enemies. <hi>Ezek</hi> 32. 24. And therefore perish with them, <hi>Ieremy</hi> 49. 36.</p>
+            <p>
+               <hi>Scotland</hi> look to it.</p>
+            <p>So was <hi>Esau Jacobs</hi> Brother, who after he sold his birth-right for a Mease of Pottage, became his deadly enemy; I wish our Brethren of <hi>Scotland</hi> have not done so; they were first in this
+<pb n="18" facs="tcp:45304:10"/> work in Christs Interest, against Anti Christs Interest▪ for which they were honoured, and rewarded of God and us; but ô that of late they had not sold their birthright, their primary Interest in this work of Christ for a Mease of Court Pottage. <hi>Esau</hi> made a surer bargaine, he had his <hi>(in manibus)</hi> sure; but the <hi>Scots</hi> want theirs yet, they are like to get them out of a hot boyling pot upon a melting fire which may scorch them to the heart, <hi>Isay</hi> 64. 2. because there's death in the Pot the fury and hot wrath of God is in it; let them look to it betime, and be warned to get out of Christs way, for his wrath is begun to burn, <hi>Psal.</hi> 2 I loved and honoured that Nation whilest they acted in Christs interest against his enemies; but since they for<g ref="char:EOLhyphen"/>sook his interest, and broake their Covenant with God and us, cleare to all the wolrd. in <hi>Hameltons</hi> invasion, and ever since I leave them, now joyned in the Anti▪Christian interest▪ and pitty them: And O that God would open the eyes of the god<g ref="char:EOLhyphen"/>ly part among them and pluck them▪ as brands, out of the fire of his wrath▪ which is begun to burne, that they may not pe<g ref="char:EOLhyphen"/>rish in his way, wherein he will tread down in his anger, all that oppose him, <hi>Isay</hi> 63. 6.</p>
+            <p>For in <hi>Esau's</hi> doome, he that runs may reade, what all false Brethren, both in <hi>England</hi> and <hi>Scotland,</hi> may expect. Now <hi>Esau's</hi> doome we Reade in many places of Scripture, <hi>Ieremy</hi> 49. 7. to 13. <hi>Isay</hi> 63▪ 1. <hi>Gen.</hi> 36. 8. But especially in that no<g ref="char:EOLhyphen"/>table place, <hi>Obed.</hi> 10 to 18. For thy violence done to thy Bro<g ref="char:EOLhyphen"/>ther <hi>Iacob,</hi> shame shall cover thee, and thou shalt be cut off for <note place="margin">Et tu mi Brute, &amp;. <hi>and thou my friend Bru<g ref="char:EOLhyphen"/>tus, dost thou wound me, said</hi> Julius Caesar <hi>in his distresse.</hi>
+               </note> ever. In that day thou stoods on the other side (that is, among the enemies) when they cast lots upon Ierusalem thou wast as one of them, when Germans, Sweades, and Dane; Orange, France, and Spaine had cast lots upon <hi>England</hi> to destroy the Saints, thou <hi>Scotland</hi> was one of them; Nay, looking for the best lot in <hi>England;</hi> but (saith the Prophet) thou shouldst not have entered into the gates of my People in the day of their distresse nor layd hands on their substance (as thou <hi>ô Scotland</hi> did in <hi>Hameltons</hi> Invasion) neither shouldest thou have stood in the crosse wayes, that none should escape, as thou <hi>Scotland</hi> did at <hi>Copperspeth,</hi> that none of our Army should escape into <hi>England,</hi> for the day of the Lord, upon all Nations, is neer; as
+<pb n="19" facs="tcp:45304:10"/> thou hast done, it shall be done unto thee; thy reward shall re<g ref="char:EOLhyphen"/>turn upon thine own head, and there shall not be any remnant of the house of <hi>Esau,</hi> for the Lord hath spoken it, saith the Prophet.</p>
+            <p>But Saviours shall come up upon Mount Sion to judge the Mount of <hi>Esau,</hi> and the Kingdom shall be the Lords <hi>Obed.</hi> 31. and he shall be King of all the Earth <hi>Zach.</hi> 14. 9.</p>
+            <p>The last use of all, Is an Exhortation to Prayse the Lord our <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>
+               </label> strong God, our eternall God, who hath now saved us, wonder<g ref="char:EOLhyphen"/>fully owning <hi>England</hi> for his Israel, his People, and our Cause, and broak the strength of those that were ready to invade us, and devoure us, and set up the Anti Christian Interest to that height of Tyranny, as we had surely felt ere this time, if the Lord of Hosts had not been on our side, when men rose up against us, O <hi>Englands</hi> God, there is none <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to thee, no works like to thy works now at <hi>Dunbar</hi> in <hi>Scotland,</hi> there thou hast broak the bow of <hi>Elam</hi> (our false Brethren,) <hi>Ieremy</hi> 49. 35. There was the Lord of Hosts known in Judah his name was great in Israel, by his wonderfull presence amongst his People, his Saints who fought his Battells: there (at <hi>Dunbar,</hi> he broak the bow and shield, the sword, and the Battell, <hi>Selah Psal.</hi> 76. 3.</p>
+            <p>Sing Prayses to our God who rydes upon the highest Clouds to our help. This is the duty of the day the high prayses of God. This is the highest pi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch of consolation the Saints can attaine in this life. See <hi>Psal</hi> 65. 1 and 71. 6. and 103. 1. 146. 2. and <hi>Psal.</hi> 48. 9. 11. 14 and <hi>Psal.</hi> 149 to the end.</p>
+            <p n="1">1. For between the Prayses of God and our consolation, there is such an harmony of sweet delight, as makes up that divine circle, whereof there is no end, it goes with the Saints to endlesse glory, without fading or decay; tis the very Effi<g ref="char:EOLhyphen"/>gies, or Picture of our life in Heaven.</p>
+            <p n="2">2. Tis also the greatest delight of the Saints on Earth, when God is most glorified and that is of all other duties most, in <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s high Prayses, by way of excellency, above all other glorying of him, as <hi>Psal.</hi> 50. last verse. And when God is most glorified, <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Soule is most sweetly refreshed and satisfied, yea, filled with joy unspeakable and glorious.</p>
+            <p n="3">3. When our Spirits are most heightned in Prayses, Hea<g ref="char:EOLhyphen"/>vens
+<pb n="20" facs="tcp:45304:11"/> windows are opened, God powres down his Spirit most plenteously. God honoured, the Saints delighted, and filled as much as we are capable of, is Heaven upon Earth. The Saints praysing, and God powring down, what more? <hi>Nil ul<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Tis the very Landskip. Mapp, or Counterpart of the Saints Inheritance in light, the Grand Lease whereof is written in the Lambs Book of Life.</p>
+            <p>God is gone up with a shout, God with the sound of the Trumpet, Sing Prayses to our God, sing Prayses; Sing Prayses to our King, sing Prayses, for God is King of all the Earth▪ King Prayses every one that hath understanding, for the shields of the world belong unto God, greatly to be exalted, <hi>Psal.</hi> 47. 5. to the end. Jehovah <hi>of Hosts is become our strength, and song and our salvation▪ ô sing unto</hi> Jehovah, <hi>for he hath done excel<g ref="char:EOLhyphen"/>lent things, known in all the Earth; Cry out and Shout, ô Inhabi<g ref="char:EOLhyphen"/>tant of Sion,</hi> (all that dwell in <hi>England</hi> this day, Shout for joy) <hi>for great is the holy one of Israel in the midst of thee,</hi> Isay 12. <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 5. 6. Prayse thy great God, <hi>ô England,</hi> for great is he in the midst of thee, Prayse to his name perpetually.</p>
+            <epigraph>
+               <q>Prayse <hi>Jah</hi> who Rydes upon the Clouds.</q>
+               <bibl>Psal. 68. 33.</bibl>
+            </epigraph>
+         </div>
+         <div type="song">
+            <pb n="21" facs="tcp:45304:11"/>
+            <head>
+               <hi>One of the Songs of</hi> Sion, <hi>in thankfulnesse of Minde and Spirit, to the Prayse of our</hi> Jeho<g ref="char:EOLhyphen"/>vah <hi>of Hosts, in remembrance of his Trium<g ref="char:EOLhyphen"/>phant Victories, wonderfully begun, and more and more to be accomplished in these latter dayes, untill he make Jerusalem the Prayse of the World.</hi>
+            </head>
+            <bibl>
+               <hi>London,</hi> Printed in our Sions Ioy, 1643. for <hi>Ben. Allen.</hi>
+            </bibl>
+            <lg>
+               <l>
+                  <hi>O Jah</hi> my strength, and eke my song,</l>
+               <l>How glorious thy Saints among!</l>
+               <l>Thou hast triumphed gloriously,</l>
+               <l>And glorious art in victory.</l>
+               <l>In victory,</l>
+               <l>O <hi>Jah</hi> on high.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>As Sunne arising full of light,</l>
+               <l>Thy face did shine so bright, O bright!</l>
+               <l>Dispersing Clouds of darkesome night,</l>
+               <l>Ʋnto thy Saints a joyfull sight.</l>
+               <l>O shining light,</l>
+               <l>O joyfull sight!</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Mountains as wax did melt away,</l>
+               <l>When then thy banner didst display,</l>
+               <l>Clad <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h gloriously and gay,</l>
+               <l>And shining in thy bright array,</l>
+               <l>Thy bright array,</l>
+               <l>Thy bright array.</l>
+            </lg>
+            <lg n="4">
+               <pb n="22" facs="tcp:45304:12"/>
+               <head>4.</head>
+               <l>Thy nostrils breath'd consuming fire,</l>
+               <l>Like burning coales in thy hot ire,</l>
+               <l>Thy sparkling eyes enflam'd with rage,</l>
+               <l>Did wound like darts thy foes courage,</l>
+               <l>In floure of age,</l>
+               <l>As well as Sage.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>As waters roaring in each ground,</l>
+               <l>Thy voyce did sound and eke re-sound,</l>
+               <l>Which made the wildernesse to quake,</l>
+               <l>And all the lofty hills to shake:</l>
+               <l>And tumbling all,</l>
+               <l>On heaps did fall.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>Thy jumping Chariots, Horses neighing,</l>
+               <l>Thundering, flaming, Canons playing,</l>
+               <l>With dust and smoake, and arrowes flying,</l>
+               <l>Laid lofty looks on heaps a dying,</l>
+               <l>Ith' dust of ground,</l>
+               <l>
+                  <hi>To</hi> sleep full sound.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>
+                  <hi>Jehovah</hi> is a man of warre.</l>
+               <l>His troopes and companies from farre.</l>
+               <l>With shining shields, and glistering speares,</l>
+               <l>That stout and strong in field appeares,</l>
+               <l>Fought valiantly.</l>
+               <l>O <hi>Jah</hi> on high.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>Thine Arme was strong thy Sword was long,</l>
+               <l>Strucke through great Kings amidst the throng,</l>
+               <l>Their sturdy Steeds, Barb'd Horse and strong,</l>
+               <l>Lay tumbling in their blood among,</l>
+               <l>O <hi>Jah</hi> my Song,</l>
+               <l>Thine Arme was strong.</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>Great Kings did fly, O they did fly▪</l>
+               <l>Their holds and forts built cunningly.</l>
+               <l>Huge Magazines of Artillery,</l>
+               <l>And all at thy strong battery,</l>
+               <l>Fell suddenly.</l>
+               <l>With shout and cry.</l>
+            </lg>
+            <lg n="10">
+               <pb n="23" facs="tcp:45304:12"/>
+               <head>10.</head>
+               <l>Crownes, Scepters, Iewils, Earings,</l>
+               <l>Gold, rich Robes, and costly things,</l>
+               <l>
+                  <hi>Thou</hi> gavest thy Souldiers to the spoyle,</l>
+               <l>And women weake, with little toyle,</l>
+               <l>Went laughing some,</l>
+               <l>Well-laden home.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>And thus at last thou hast brought down</l>
+               <l>The Crozier Staffe, the triple Crown,</l>
+               <l>Which rul'd the Nations in great fume,</l>
+               <l>And did almost the world consume.</l>
+               <l>Hallelu-jah</l>
+               <l>Hallelu-jah.</l>
+            </lg>
+            <lg n="12">
+               <head>12.</head>
+               <l>
+                  <hi>Gog</hi> and <hi>Magog</hi> from farre Country,</l>
+               <l>Who like a flood, and Sand of Sea,</l>
+               <l>Encampt aboue thine owne City,</l>
+               <l>
+                  <hi>Thou</hi> hast consum'd from heaven on high,</l>
+               <l>Eternally,</l>
+               <l>O <hi>Jah</hi> on high.</l>
+            </lg>
+            <lg n="13">
+               <head>13.</head>
+               <l>Young Maids arise, arise and sing.</l>
+               <l>With Tymbrels, Daunces to our King.</l>
+               <l>Sing out your skilfull notes, O high,</l>
+               <l>With most exact, sweet melody.</l>
+               <l>
+                  <hi>To Jah</hi> on high</l>
+               <l>Make Melody.</l>
+            </lg>
+            <lg n="14">
+               <head>14.</head>
+               <l>Prayse <hi>Jah</hi> ye Saints who lovs and s<gap reason="illegible: blotted" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>His noble, famous acts so high,</l>
+               <l>His valiant acts sing out aloud,</l>
+               <l>Give prayse, O greatnesse to our God,</l>
+               <l>For great is he</l>
+               <l>In midst of thee.</l>
+            </lg>
+            <lg n="15">
+               <head>15.</head>
+               <l>O King of Saints, O King of Kings,</l>
+               <l>Of Earth and all thy conquerings,</l>
+               <l>
+                  <hi>Tune</hi> up our strings to highest straine,</l>
+               <l>Which mortall creatures here attaine.</l>
+               <l>Hallelu-jah.</l>
+               <l>Hallelu-jah.</l>
+            </lg>
+            <lg n="16">
+               <pb n="24" facs="tcp:45304:13"/>
+               <head>16.</head>
+               <l>From North to South, from East to West</l>
+               <l>All yee that now in <hi>Zion</hi> rest,</l>
+               <l>Jew, Gentile, Greeke, Barbarian,</l>
+               <l>From America and Java to Japan,</l>
+               <l>All Prayses sing</l>
+               <l>
+                  <hi>To Sions</hi> King.</l>
+            </lg>
+            <lg n="17">
+               <head>17.</head>
+               <l>My King, my King, O <hi>Zion</hi> sing.</l>
+               <l>Oh been accord, make Heavens to ring</l>
+               <l>With Songs delectable and sweet,</l>
+               <l>Before his <hi>Throne</hi> at's royall feet.</l>
+               <l>My King, my King,</l>
+               <l>
+                  <hi>To Thee</hi> we sing.</l>
+            </lg>
+            <lg n="18">
+               <head>18.</head>
+               <l>From the beginning to this day</l>
+               <l>Were ever seen sach works, I say;</l>
+               <l>A flourishing Church, like Spring in May.</l>
+               <l>Now shall <hi>Jehovah</hi> Reigne for aye,</l>
+               <l>Reigne for aye,</l>
+               <l>Reigne for aye.</l>
+            </lg>
+            <lg n="19">
+               <head>19.</head>
+               <l>Now <hi>Jah</hi> shall Reigne for ever and aye,</l>
+               <l>Arise beloved and come away,</l>
+               <l>As pleasant Roe on bankes so stay,</l>
+               <l>
+                  <hi>That</hi> we may Reigne with thee for aye,</l>
+               <l>With thee for aye,</l>
+               <l>With thee for aye.</l>
+            </lg>
+            <lg n="20">
+               <head>20.</head>
+               <l>
+                  <hi>That</hi> we may Reigne with thee for aye.</l>
+               <l>Come away, come away,</l>
+               <l>
+                  <hi>That</hi> we may Reigne with thee for aye▪</l>
+               <l>For ever and aye, for ever and aye.</l>
+               <l>Hallelu-jah,</l>
+               <l>Hallelu-jah.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
